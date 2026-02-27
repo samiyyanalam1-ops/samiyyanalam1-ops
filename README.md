@@ -1,70 +1,42 @@
-# 👋 Hey there! I'm glad you're here
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a6d75,100:9da0a6&height=180&section=header&text=Abdullah%20Zayed&fontSize=48&fontColor=ffffff&desc=Python%20Backend%20Developer%20%7C%20Teacher%20%7C%20Open%20Source%20Enthusiast&descAlignY=65&animation=fadeIn" />
+</p>
 
-✨ Welcome to my little corner of GitHub — where ideas turn into code and curiosity never sleeps.
-
----
-
-## 🌈 About Me
-
-- 💻 I love building things that *actually work* (and fixing the ones that don’t)
-- 🧠 Forever learning, forever experimenting
-- 🔍 Big fan of clean code, clever solutions, and “ohhh that’s nice” refactors
-- 🛠️ I enjoy debugging more than I probably should
-- ☕ Powered by coffee, curiosity, and good playlists
-
----
-
-## 🚀 What I’m Into
-
-- 🧩 Turning complex problems into simple solutions  
-- 🧹 Refactoring code until it feels *right*  
-- 🔧 Writing code that’s readable, maintainable, and kind to future-me  
-- 📚 Learning new tools, patterns, and best practices  
-- 🤝 Collaborating with people who love what they build  
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com
+    ?font=Fira+Code
+    &size=28
+    &duration=2500
+    &pause=1000
+    &color=6F7BFF
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=print(%22Hello%2C+World!%22);Python+Backend+Developer;Teacher+and+Mentor;Open+Source+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
-## 🛠️ Tech & Tools I Enjoy
+## 👋 About Me
 
-- Languages I vibe with: **JavaScript, Python, TypeScript, and friends**
-- Frameworks & tools that make life easier
-- Git, GitHub, and clean commit messages
-- Anything that improves developer experience ✨
-
-*(Always open to learning more — recommendations welcome!)*
+- 🐍 Python Backend Developer  
+- 🧠 Passionate about clean code and system design  
+- 🔧 Enjoys debugging and refactoring
 
 ---
 
-## 📈 GitHub Goals
+## 🚀 What I Do
 
-- ✅ Build useful, thoughtful projects  
-- ✅ Keep improving code quality  
-- ✅ Share knowledge and ideas  
-- ✅ Leave codebases better than I found them  
+- Build reliable backend systems  
+- Write readable, maintainable code  
+- Share knowledge and help others grow  
 
----
-
-## 💬 A Few Nice Things I Believe In
-
-- Good documentation is an act of kindness  
-- There’s no such thing as “too clean” code  
-- Small improvements add up  
-- Asking questions is a superpower  
-- Everyone starts somewhere — growth > perfection  
-
----
-
-## 🌟 Fun Facts
-
-- I get oddly happy when tests pass  
-- I love elegant solutions, even for tiny problems  
-- I will refactor working code… respectfully  
-
----
-
-## 🤍 Thanks for Stopping By
-
-If you’re here to explore, collaborate, or just peek around — **welcome**.  
-Feel free to check out my repos, leave feedback, or say hi.
-
-Happy coding! 🚀✨
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9da0a6,100:6a6d75&height=120&section=footer" />
+</p>
