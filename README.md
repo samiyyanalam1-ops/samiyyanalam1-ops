@@ -1,42 +1,28 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a6d75,100:9da0a6&height=180&section=header&text=Abdullah%20Zayed&fontSize=48&fontColor=ffffff&desc=Python%20Backend%20Developer%20%7C%20Teacher%20%7C%20Open%20Source%20Enthusiast&descAlignY=65&animation=fadeIn" />
-</p>
+# 👋 Hey, I’m here to build cool stuff
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=Fira+Code
-    &size=28
-    &duration=2500
-    &pause=1000
-    &color=6F7BFF
-    &center=true
-    &vCenter=true
-    &width=520
-    &lines=print(%22Hello%2C+World!%22);Python+Backend+Developer;Teacher+and+Mentor;Open+Source+Enthusiast"
-    alt="Typing SVG"
-  />
-</p>
+🎮 Gamer by heart  
+💻 Coder by choice  
+🧠 Debugger by destiny  
+
+I like creating things that **work**, **break**, and then **work better**.
 
 ---
 
-## 👋 About Me
+## 🕹️ Play With Me (Developer Edition)
 
-- 🐍 Python Backend Developer  
-- 🧠 Passionate about clean code and system design  
-- 🔧 Enjoys debugging and refactoring
+- 🎯 **Current Quest:** Shipping projects & leveling up skills  
+- 🧩 **Side Missions:** Refactoring, debugging, experimenting  
+- 🏆 **Achievements Unlocked:** “It works on my machine”
 
 ---
 
-## 🚀 What I Do
+## 🧰 Inventory (Tech Stack)
 
-- Build reliable backend systems  
-- Write readable, maintainable code  
-- Share knowledge and help others grow  
+```text
+Languages     ▓▓▓▓▓▓▓▓▓░░
+JavaScript    ▓▓▓▓▓▓▓▓▓▓
+Python        ▓▓▓▓▓▓▓▓░░
+HTML/CSS      ▓▓▓▓▓▓▓▓▓▓
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9da0a6,100:6a6d75&height=120&section=footer" />
-</p>
+Tools
+Git | GitHub | VS Code | Terminal | APIs | Debuggers
